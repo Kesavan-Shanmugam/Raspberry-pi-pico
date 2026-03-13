@@ -45,5 +45,3 @@ SPI communication examples including transmit, receive, and loopback testing.
 Connect the **Raspberry Pi Pico W** to a Wi-Fi network and host a simple HTTP web server to control an LED.
 
 ---
-
-# Repository Structure Overview
